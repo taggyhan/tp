@@ -2,7 +2,7 @@
   "baseUrl": "",
   "titlePrefix": "",
   "titleSuffix": "HallPointer",
-  "faviconPath": "images/SeEduLogo.png",
+  "faviconPath": "images/hallpointerLogo.png",
   "style": {
     "codeTheme": "light"
   },
